@@ -1,9 +1,9 @@
 # webDev-temp
 
-# Week-1
+#  Week 1️⃣
 - created index.html
 - done first css file
 
-# Week-2
+# Week 
 - created index.html
 - done first css file
